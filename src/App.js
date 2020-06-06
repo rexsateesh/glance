@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
-import {BrowserRouter as Router, Switch} from 'react-router-dom';
-import {LayoutRoute} from './components/layout';
+import { BrowserRouter as Router, Switch } from 'react-router-dom';
+import { LayoutRoute } from './components/layout';
 import Dashboard from './components/dashboard';
 import Integration from './components/integration';
 import Analytics from './components/analytics';
